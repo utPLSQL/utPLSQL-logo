@@ -58,6 +58,21 @@ Black background
 <img src="icon-black.png" alt="icon-black.png" height="200">
 
 
+## The Q icon - blue gradient
+
+Transparent background
+
+<img src="blue-icon-transparent.png" alt="blue-icon-transparent.png" height="200">
+
+White background
+
+<img src="blue-icon-white.png" alt="blue-icon-white.png" height="200">
+
+Black background
+
+<img src="blue-icon-black.png" alt="blue-icon-black.png" height="200">
+
+
 ## Note
 
 > Base font used for logo is `Neuropolitical` 
